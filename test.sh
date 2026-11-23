@@ -10,3 +10,6 @@ hello world
 
 
 How are you ?
+
+merge1
+merge2
